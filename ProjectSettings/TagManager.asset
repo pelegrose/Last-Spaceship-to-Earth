@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Oxygen
+  - Fire
+  - SpaceShip
+  - SmallOb
+  - vent
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Foreground
+  - Rope
+  - VentAndDoors
+  - player1
+  - player2
+  - Unit1
+  - Unit2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 917353879
+    locked: 0
+  - name: gradient
+    uniqueID: 2723626967
+    locked: 0
+  - name: Floor
+    uniqueID: 3701429393
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Fire
+    uniqueID: 2313425619
+    locked: 0
+  - name: EscapeShip
+    uniqueID: 52997185
+    locked: 0
+  - name: ForeGround
+    uniqueID: 3428644325
+    locked: 0
+  - name: PressAny
+    uniqueID: 4136625943
+    locked: 0
+  - name: PressAny2
+    uniqueID: 1605629671
+    locked: 0
